@@ -13191,6 +13191,7 @@ section#contact form#contactForm :-ms-input-placeholder {
   text-align: center;
   font-size: 0.9rem;
   font-family: "K2D";
+  background-color: #aaaaaa;
 }
 .section {
   border: 1px solid #ccc;
@@ -13256,4 +13257,8 @@ section#contact form#contactForm :-ms-input-placeholder {
 }
 .contact-info {
   font-family: "K2D";
+}
+.my_div {
+  width: 500px;
+  height: 200px;
 }
